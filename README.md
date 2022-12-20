@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @tarmara1981
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Honza Marek
+- 👀 Oracle, PL/SQL, SQLite, geocaching
+- 🌱 Python
+- 💞️ basics of MakerBadge
 - 📫 [twitter/tarmara1981](https://twitter.com/tarmara1981)
 
 <!---
